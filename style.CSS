@@ -1,18 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
 .cabecalho{
     background-color: rgb(69, 81, 148);
     color: rgb(190, 237, 255);
     display: flex;
-    justify-content: space-around;
-    padding: 24px 0;
-    font-size: 50px;
+    justify-content: space-between;
+    padding: 30px 6;
+    font-size: 20px;
 
 
 
 }
-.cabecalhoListItem{
-display: inline-block;
-margin: 0 120px;
-padding: 78px 0;
+.cabecalhoListaItem{
+    display: inline-block;
+    margin: 3 20px;
+    padding: 20px 6;
 
 
 }
