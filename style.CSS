@@ -26,22 +26,32 @@
 }
 
 .sobreImagem{
-           width:
+           width: 470px;
 }
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#4f83e2, #3a71d8);
+        color: rgb(0, 0, 0);
         display: flex;
         justify-content: center;
        align-items: center;
-       padding: 370px 0;
+       padding: 100px 0;
 }
 
+.sobreTextoDois{
+    margin: 30px 0;
+}
+
+.sobreTextoquatro{
+    margin: 50px 0;
+}
+
+
+
 .sobreConteudo{
-        width:
+        width: 600px;
 }
 
 .sobreTitulo{
-         padding: 100px 50px;
+         padding: 70px  0;
 }
