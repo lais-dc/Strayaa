@@ -7,20 +7,26 @@
 
 
 .cabecalho{
-    background-color: rgb(69, 81, 148);
+    background-color: rgb(156, 35, 35);
     color: rgb(190, 237, 255);
     display: flex;
     justify-content: space-between;
     padding: 30px 6;
-    font-size: 20px;
+    font-size: 10px;
 
 
 
 }
+
+.cabecalhoImagem{
+    width: 200px;
+}
+
 .cabecalhoListaItem{
     display: inline-block;
+    justify-content: space-around;
     margin: 3 20px;
-    padding: 20px 6;
+    padding: 20px 10;
 
 
 }
@@ -30,12 +36,12 @@
 }
 
 .sobre{
-        background-image: linear-gradient(#4f83e2, #3a71d8);
+        background-image: linear-gradient(#9cb4e0, #2e5bb1);
         color: rgb(0, 0, 0);
         display: flex;
         justify-content: center;
        align-items: center;
-       padding: 100px 0;
+       padding: 30px 0;
 }
 
 .sobreTextoDois{
@@ -53,5 +59,5 @@
 }
 
 .sobreTitulo{
-         padding: 70px  0;
+         padding: 60px 0;
 }
